@@ -7,7 +7,7 @@ Skills I learned/reinforced:
   - structure site with a hierarchy
   - set up a structured directory
   - use relative links
-  - use "<strong>" for better readability
+  - use "strong" element for better readability
   - use images, with "alt" attribute
   - use unordered and ordered lists
   - use "atomic commits"
